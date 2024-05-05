@@ -6,10 +6,10 @@ Here's a bit about me: <br>
 🚀 I specialize in: React, JavaScript, Next.js, Express.js, Node.js <br>
 🛠️ I'm proficient in working with databases: MongoDB, PostgreSQL, MySQL<br>
 🐧 I'm comfortable navigating in Linux environments<br>
-🔍 I have experience with GraphQL and data analysis using Pandas<br>
+🔍 I have experience with GraphQL and data analysis using Pandas<br><br>
 🌱 Currently Exploring:<br>
 I'am currently learning React Native <br>
 📫 Get in touch:<br>
+Instegram: @yosiyas_endale <br><br>
 
-Instegram: @yosiyas_endale
 Feel free to explore my repositories and reach out for collaborations or just to say hi!
