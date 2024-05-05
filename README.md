@@ -10,6 +10,6 @@ Here's a bit about me: <br>
 🌱 Currently Exploring:<br>
 I'am currently learning React Native <br>
 📫 Get in touch:<br>
-Instegram: @yosiyas_endale <br><br>
+Instagram: @yosiyas_endale <br><br>
 
 Feel free to explore my repositories and reach out for collaborations or just to say hi!
