@@ -8,6 +8,6 @@ Here's a bit about me: <br>
 🐧 I'm comfortable navigating in Linux environments<br>
 🔍 I have experience with GraphQL and data analysis using Pandas<br><br>
 📫 Get in touch:<br>
-Instagram: @yosiyas_endale <br><br>
+email: endalejosiah@gmail.com <br><br>
 
 Feel free to explore my repositories and reach out for collaborations or just to say hi!
